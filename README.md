@@ -3,3 +3,5 @@
       Learning C and Java
 
 Interested in backend development and database management
+
+   Goal: become a backend developer
