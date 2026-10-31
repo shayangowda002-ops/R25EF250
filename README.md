@@ -6,3 +6,7 @@ Learning C and Java
 Interested in backend development and database management
 
    Goal: become a backend developer
+
+## Projects
+
+   Hello World programs in C, Java and Python, written while setting up my development environment. I also plan to build a small backend project with a database.
